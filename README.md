@@ -1,6 +1,6 @@
 ## ¡Hola! 👋 Soy Samuel Lozano  
 
-💻 **Desarrollador y diseñador web en formación**  
+👨🏻‍💻 **Desarrollador y diseñador web en formación**  
 Apasionado por la tecnología, el diseño y la creación de proyectos web con estilo propio.  
 Me encanta programar, aprender cosas nuevas cada día y cuidar cada detalle tanto en el código como en la experiencia visual.  
 
