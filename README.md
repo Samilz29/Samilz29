@@ -26,4 +26,4 @@ Busco mi primera oportunidad para aprender de un equipo profesional y demostrar 
 ---
 
 📍 **Murcia**  
-🔗 [LinkedIn](#https://www.linkedin.com/in/samuel-lozano-martinez-a65825222/) • [Portfolio](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/samuel-lozano-martinez-a65825222/) • [Portfolio](#)
