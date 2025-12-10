@@ -15,7 +15,9 @@ Me encanta programar, aprender cosas nuevas cada día y cuidar cada detalle tant
 
 ### 🚀 Proyectos destacados  
 _Actualmente en proceso de desarrollo de mis primeros proyectos._  
-_(Próximamente añadiré algunos ejemplos aquí ✨)_
+_1.PokeApi_
+_Este es mi primer proyecto donde creo una pokedex donde ataco a una API de Pokemón, las tecnologias que uso son JavaScript, html y css_
+[Pokedex](https://samilz29.github.io/PokeAPI/)
 
 ---
 
@@ -26,4 +28,4 @@ Busco mi primera oportunidad para aprender de un equipo profesional y demostrar 
 ---
 
 📍 **Murcia**  
-🔗 [LinkedIn](https://www.linkedin.com/in/samuel-lozano-martinez-a65825222/) • [Portfolio](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/samuel-lozano-martinez-a65825222/) • [Portfolio](https://samilz29.github.io/Portfolio_Samuel_Lozano/)
