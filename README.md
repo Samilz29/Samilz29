@@ -16,8 +16,8 @@ Me encanta programar, aprender cosas nuevas cada día y cuidar cada detalle tant
 ### 🚀 Proyectos destacados  
 
 _1.Mirubox_
-_Mirubox es una aplicacion real donde puedes llevar un diario del contendio que visualizas en el dia, las tecnologias que use fueron Angular, Symfony y para el despliegue en railway y vercel _
-[Pokedex](https://mymirubox.com/)
+_Mirubox es una aplicacion real donde puedes llevar un diario del contendio que visualizas en el dia, las tecnologias que use fueron Angular, Symfony y para el despliegue en railway y vercel 
+[MiruBox](https://mymirubox.com/)
 
 _2.PokeApi_
 _Este es mi primer proyecto donde creo una pokedex donde ataco a una API de Pokemón, las tecnologias que uso son JavaScript, html y css_
