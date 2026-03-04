@@ -1,22 +1,29 @@
 ## ¡Hola! 👋 Soy Samuel Lozano  
 
-👨🏻‍💻 **Desarrollador y diseñador web en formación**  
+👨🏻‍💻 **Desarrollador FullStack**  
 Apasionado por la tecnología, el diseño y la creación de proyectos web con estilo propio.  
 Me encanta programar, aprender cosas nuevas cada día y cuidar cada detalle tanto en el código como en la experiencia visual.  
 
 ---
 
 ### 🧩 Tecnologías que manejo  
-**Lenguajes:** Java, JavaScript, PHP, MySQL  
-**Herramientas:** VS Code, XAMPP, Git, Figma  
-**Sistemas operativos:** Windows 11, Linux Ubuntu  
+**Lenguajes:** Java, JavaScript, PHP, MySQL, Symfony, Laravel, Spring, Angular 
+**Herramientas:** VS Code, Intel JS , XAMPP, Git, Figma  
+**Sistemas operativos:** Windows 11, Linux Ubuntu, MacOS 
 
 ---
 
 ### 🚀 Proyectos destacados  
-_1.PokeApi_
+
+_1.Mirubox_
+_Mirubox es una aplicacion real donde puedes llevar un diario del contendio que visualizas en el dia, las tecnologias que use fueron Angular, Symfony y para el despliegue en railway y vercel _
+[Pokedex](https://mymirubox.com/)
+
+_2.PokeApi_
 _Este es mi primer proyecto donde creo una pokedex donde ataco a una API de Pokemón, las tecnologias que uso son JavaScript, html y css_
 [Pokedex](https://samilz29.github.io/PokeAPI/)
+
+
 
 ---
 
