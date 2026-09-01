@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Samuel Lozano (Sami)</h1>
+<h1 align="center">¡Hola! 👋 Soy Samuel Lozano</h1>
 
 <h3 align="center">Desarrollador Web | Freelance | Estudiante de Ingeniería Informática</h3>
 
